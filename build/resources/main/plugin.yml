@@ -1,0 +1,11 @@
+main: br.com.eterniaserver.eterniashop.EterniaShop
+
+name: EterniaShop
+version: 2.0.0-STABLE
+author: Yuri Nogueira
+description: A simple shop plugin.
+api-version: '1.14'
+depend:
+  - EterniaLib
+softdepend:
+  - Vault

@@ -1,0 +1,45 @@
+br/com/eterniaserver/eterniashop/core/ShopCommands.java
+ br.com.eterniaserver.eterniashop.core.ShopCommands
+br/com/eterniaserver/eterniashop/baseobjects/UpdateShop.java
+ br.com.eterniaserver.eterniashop.baseobjects.UpdateShop
+br/com/eterniaserver/eterniashop/enums/Booleans.java
+ br.com.eterniaserver.eterniashop.enums.Booleans
+br/com/eterniaserver/eterniashop/enums/Doubles.java
+ br.com.eterniaserver.eterniashop.enums.Doubles
+br/com/eterniaserver/eterniashop/core/Tick.java
+ br.com.eterniaserver.eterniashop.core.Tick
+br/com/eterniaserver/eterniashop/configurations/locales/CommandsLocale.java
+ br.com.eterniaserver.eterniashop.configurations.locales.CommandsLocale
+br/com/eterniaserver/eterniashop/configurations/ConfigsCfg.java
+ br.com.eterniaserver.eterniashop.configurations.ConfigsCfg
+br/com/eterniaserver/eterniashop/configurations/locales/MessagesCfg.java
+ br.com.eterniaserver.eterniashop.configurations.locales.MessagesCfg
+br/com/eterniaserver/eterniashop/enums/Integers.java
+ br.com.eterniaserver.eterniashop.enums.Integers
+br/com/eterniaserver/eterniashop/baseobjects/ShopConfirmation.java
+ br.com.eterniaserver.eterniashop.baseobjects.ShopConfirmation
+br/com/eterniaserver/eterniashop/configurations/Metrics.java
+ br.com.eterniaserver.eterniashop.configurations.Metrics
+ br.com.eterniaserver.eterniashop.configurations.Metrics$AdvancedBarChart
+ br.com.eterniaserver.eterniashop.configurations.Metrics$AdvancedPie
+ br.com.eterniaserver.eterniashop.configurations.Metrics$CustomChart
+ br.com.eterniaserver.eterniashop.configurations.Metrics$DrilldownPie
+ br.com.eterniaserver.eterniashop.configurations.Metrics$JsonObjectBuilder
+ br.com.eterniaserver.eterniashop.configurations.Metrics$JsonObjectBuilder$JsonObject
+ br.com.eterniaserver.eterniashop.configurations.Metrics$MetricsBase
+ br.com.eterniaserver.eterniashop.configurations.Metrics$MultiLineChart
+ br.com.eterniaserver.eterniashop.configurations.Metrics$SimpleBarChart
+ br.com.eterniaserver.eterniashop.configurations.Metrics$SimplePie
+ br.com.eterniaserver.eterniashop.configurations.Metrics$SingleLineChart
+br/com/eterniaserver/eterniashop/baseobjects/PlayerTeleport.java
+ br.com.eterniaserver.eterniashop.baseobjects.PlayerTeleport
+br/com/eterniaserver/eterniashop/enums/Strings.java
+ br.com.eterniaserver.eterniashop.enums.Strings
+br/com/eterniaserver/eterniashop/enums/Messages.java
+ br.com.eterniaserver.eterniashop.enums.Messages
+br/com/eterniaserver/eterniashop/EterniaShop.java
+ br.com.eterniaserver.eterniashop.EterniaShop
+br/com/eterniaserver/eterniashop/enums/Commands.java
+ br.com.eterniaserver.eterniashop.enums.Commands
+br/com/eterniaserver/eterniashop/Constants.java
+ br.com.eterniaserver.eterniashop.Constants

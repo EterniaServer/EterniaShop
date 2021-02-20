@@ -1,0 +1,23 @@
+package br.com.eterniaserver.eterniashop.enums;
+
+public enum Messages {
+
+    COMMAND_COST,
+    TELEPORT_TIMING,
+    TELEPORT_MOVED,
+    RELOAD,
+    ETERNIASHOP,
+    NOT_SAFE,
+    SHOP_DEFINED,
+    NOT_MONEY,
+    SERVER_SHOP_NOT_DEFINED,
+    SHOP_WELCOME,
+    SHOP_PLAYER_WELCOME,
+    SHOP_PLAYER_NOT,
+    SHOP_DELETE_CONFIRM,
+    ETERNIASHOP_LOADED,
+    SHOP_DELETED,
+    NOT_SHOP,
+    SERVER_SHOP_DEFINED
+
+}

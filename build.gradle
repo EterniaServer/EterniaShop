@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+}
+
+group 'br.com.eterniaserver'
+version '2.0.0-STABLE'
+
+project.sourceCompatibility = '11'
+project.targetCompatibility = '11'
+
+repositories {
+    mavenCentral()
+    maven { url = 'https://papermc.io/repo/repository/maven-public/' }
+    maven { url = 'https://raw.github.com/yurinogueira/EterniaLib/repository' }
+    maven { url = 'https://jitpack.io' }
+    mavenLocal()
+}
+
+dependencies {
+    compileOnly 'com.destroystokyo.paper:paper-api:1.14-R0.1-SNAPSHOT'
+    compileOnly 'br.com.eterniaserver:EterniaLib:2.0.2-STABLE'
+    compileOnly 'com.github.MilkBowl:VaultAPI:1.7'
+}
